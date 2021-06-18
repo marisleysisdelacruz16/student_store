@@ -26,23 +26,21 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+<iframe src="https://giphy.com/embed/f92Gkl7YnGwB7LEkEZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/f92Gkl7YnGwB7LEkEZ">via GIPHY</a></p>
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, all of the labs helped especially the banking one because it connected the backend and frontend. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time I would style the webpage more and make it more appealing. I would make the navigation bar work and add the sidebar. I would also do the stretch features and make sure I could add an item to the cart from the page that shows only one product.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+My homepage looks pretty good, I have all of the products displaying in grid view. All of the products can be added to and removed from the cart. Also, when the image is clicked on you can see more details about the item. One thing that I wasn't able to implement was to have the user be able to add or remove items from the cart when viewing the single product. 
 
 ### Open-source libraries used
 
@@ -50,4 +48,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+I want to give a shout out to Tirumari and Matt for their help.
