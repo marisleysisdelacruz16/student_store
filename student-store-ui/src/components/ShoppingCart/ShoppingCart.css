@@ -23,7 +23,7 @@
     background: var(--dark-blue);
   }
   .ShoppingCart .banner .content h2 {
-    color: white;
+    color: rgb(236, 114, 240);
   }
   .ShoppingCart .content {
     max-width: var(--content-width);

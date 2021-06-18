@@ -1,11 +1,17 @@
-import { formatPrice } from "../../../../src/utils/format"
+import { formatPrice } from "../../utils/format"
 import "./ProductCard.css"
+import {Link} from "react-router-dom"
 
-export default function ProductCard({ product, quantity, addToCart, removeFromCart }) {
+export default function ProductCard({id,product, quantity, addToCart, removeFromCart }) {
   return (
     <div className="ProductCard">
-      <div className="media">
-        {product.image ? <img src={product.image} alt="product cover" /> : alt="product cover"}
+    <div className="card">
+    {/* <Link to = {`/product/${id}`}>
+        {product.image}
+    </Link> */}
+    </div> 
+      <div className="media" >
+      <Link to = {"/store/" + id}> <img src={product.image} alt="product cover" />  </Link>
       </div>
       <div className="product-info">
         <div className="info">

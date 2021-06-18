@@ -2,11 +2,15 @@ import { useNavigate } from "react-router-dom"
 import { formatPrice } from "../../utils/format"
 import { calculateItemSubtotal, calculateTaxesAndFees, calculateTotal } from "../../utils/calculations"
 import "./ShoppingCart.css"
+import Navbar from "../Navbar/Navbar"
+import SubNavbar from "../SubNavbar/SubNavbar"
 
 export default function ShoppingCart({
   cart,
   products,
   getTotalItemsInCart,
+  activeCategory,
+  setActiveCategory,
   addToCart,
   removeFromCart,
   getQuantityOfItemInCart,
@@ -32,6 +36,11 @@ export default function ShoppingCart({
 
   return (
     <div className="ShoppingCart">
+        <Navbar />
+        <SubNavbar
+        activeCategory={activeCategory}
+        setActiveCategory={setActiveCategory}
+      />
       <div className="banner">
         <div className="content">
           <h2>Cart - ({getTotalItemsInCart()}) items</h2>
@@ -84,7 +93,7 @@ const CartItem = ({ product, quantity, addToCart, removeFromCart }) => {
     <div className="CartItem">
       <div className="item-info">
         <div className="item">
-          <img className="image" src={product.image || codepath} alt="product cover" />
+          <img className="image" src={product.image} />
           <div className="name-and-price">
             <p className="name">{product.name}</p>
             <p className="price">{formatPrice(product.price)}</p>

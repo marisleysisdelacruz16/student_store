@@ -9,7 +9,7 @@ export default function ProductGrid({ addToCart, removeFromCart, getQuantityOfIt
         <div className="grid">
           {products?.map((product) => (
             <ProductCard
-              key={product.id}
+              id={product.id}
               product={product}
               quantity={getQuantityOfItemInCart(product)}
               addToCart={() => addToCart(product)}

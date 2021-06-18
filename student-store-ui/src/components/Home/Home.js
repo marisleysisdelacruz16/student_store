@@ -1,11 +1,15 @@
 import { useEffect } from "react"
 import { useLocation } from "react-router-dom"
-import ProductGrid from "../../../../src/components/ProductGrid/ProductGrid"
+import ProductGrid from "../ProductGrid/ProductGrid"
+import SubNavbar from "../SubNavbar/SubNavbar"
+import Navbar from "../Navbar/Navbar"
 import "./Home.css"
 
 export default function Home({
   isFetching,
   products,
+  activeCategory,
+  setActiveCategory,
   addToCart,
   removeFromCart,
   getQuantityOfItemInCart,
@@ -23,6 +27,11 @@ export default function Home({
 
   return (
     <div className="Home">
+    <Navbar />
+    <SubNavbar
+        activeCategory={activeCategory}
+        setActiveCategory={setActiveCategory}
+      />
       <ProductGrid
         products={products}
         isFetching={isFetching}

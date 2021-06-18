@@ -55,4 +55,3 @@
       return acc + cart[id]
     }, 0)
   }
-  

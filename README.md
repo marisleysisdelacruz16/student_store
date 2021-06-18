@@ -1,8 +1,6 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Week 2 Assignment: Student Store
 
-Submitted by: **NAME**
+Submitted by: **Marisleysis De La Cruz**
 
 Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
@@ -10,10 +8,10 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
 #### CORE FEATURES
 
-- [ ] The API should contain an endpoint that serves an array of all products in the store
-- [ ] A Store model should handle all data management logic for the API and be the interface for read/write operations to the JSON file.
-- [ ] The frontend should include a landing page that displays the products available for purchase.
-- [ ] Each product should have an individual page that shows the details of the product and allows the user to add that product to their shopping cart.
+- [ X ] The API should contain an endpoint that serves an array of all products in the store
+- [ X ] A Store model should handle all data management logic for the API and be the interface for read/write operations to the JSON file.
+- [ X ] The frontend should include a landing page that displays the products available for purchase.
+- [ X ] Each product should have an individual page that shows the details of the product and allows the user to add that product to their shopping cart.
 
 #### STRETCH FEATURES
 

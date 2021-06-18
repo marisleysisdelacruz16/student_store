@@ -7,7 +7,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
       "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
       "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
-      "price": 0.99
+      "price": 3.99
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
       "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
       "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "price": 2.5
     },
     {
       "id": 3,
@@ -79,7 +79,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jumper_altered_PsCSJPG10.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Jumper_altered_PsCSJPG10.jpg",
       "description": "At $4.99, can you really afford NOT to buy this?",
-      "price": 4.99
+      "price": 15.99
     },
     {
       "id": 10,
@@ -97,7 +97,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wedding_rings.jpg/800px-Wedding_rings.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Wedding_rings.jpg",
       "description": "Ball out and get one for each finger!",
-      "price": 200
+      "price": 200.0
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apple_Watch.jpg/800px-Apple_Watch.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Apple_Watch.jpg",
       "description": "Why check your phone all the time when you can check your watch all the time?",
-      "price": 399.99
+      "price": 3999.99
     },
     {
       "id": 13,
@@ -115,7 +115,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Copper_bracelet_04.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Copper_bracelet_04.jpg",
       "description": "Compliment this accessory with a batter and some wire and you have yourself a portable charger right on your wrist!",
-      "price": 70
+      "price": 700
     },
     {
       "id": 14,
@@ -124,7 +124,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Apple-wireless-keyboard.jpg/800px-Apple-wireless-keyboard.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Apple-wireless-keyboard.jpg",
       "description": "A wireless keyboard for your computer! Because who doesn't like walking around while they type up an essay.",
-      "price": 110
+      "price": 11000
     },
     {
       "id": 15,
@@ -142,7 +142,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Google_Glass_photo.JPG/330px-Google_Glass_photo.JPG",
       "source": "https://en.wikipedia.org/wiki/Google_Glass",
       "description": "Have the internet mounted to your face, and get the added benefit of looking silly all the time!",
-      "price": 999.99
+      "price": 9999.99
     }
   ],
   "purchases": []
