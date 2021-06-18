@@ -1,0 +1,26 @@
+{
+  "name": "student_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisleysisdelacruz16/student_store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisleysisdelacruz16/student_store/issues"
+  },
+  "homepage": "https://github.com/marisleysisdelacruz16/student_store#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.0.0-alpha.8",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.10.0"
+  }
+}
