@@ -28,6 +28,12 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
 <iframe src="https://giphy.com/embed/f92Gkl7YnGwB7LEkEZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/f92Gkl7YnGwB7LEkEZ">via GIPHY</a></p>
 
+
+Second GIF:
+<iframe src="https://giphy.com/embed/XULzbFlno7eqVAiXzx" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XULzbFlno7eqVAiXzx">via GIPHY</a></p>
+
+
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
